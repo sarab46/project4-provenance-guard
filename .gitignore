@@ -1,0 +1,4 @@
+.venv/
+.env
+audit.db
+__pycache__/
